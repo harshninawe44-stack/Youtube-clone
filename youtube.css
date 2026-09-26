@@ -1,7 +1,15 @@
 .thumbnails{
     width: 300px;
+    display: block;
 }
 
 .search-bar{
-    margin-left: 25px;
+    padding-right: 132px;
+    margin-left: 20px;
+    display: block;
+}
+
+.video-preview{
+    margin-left: 20px;
+    display: inline-block;
 }
