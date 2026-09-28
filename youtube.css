@@ -14,8 +14,10 @@
 }
 
 .profile-picture{
-    width: 50px;
+    width: 40px;
+    height: 40px;
     display: inline-block;
+    border-radius: 40px;
 }
 
 .video-title{
@@ -24,4 +26,13 @@
     margin-top: 0px;
     margin-bottom: 0px;
     vertical-align: top;
+}
+
+.thumbnail-row{
+    margin-bottom: 10px;
+}
+
+p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
 }
